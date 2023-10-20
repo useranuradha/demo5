@@ -1,0 +1,3 @@
+to create git firstly need to make username & user email now git will start tracking .
+then will make folder= repository(in git terms)
+then make it .git folder use git init cmd.
